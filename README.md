@@ -1,5 +1,5 @@
-README
-======
+CASCADE Workpackage 6 | Modelling
+=================================
 
 This repository is hosting the documentation for the WP6 related work. 
 
