@@ -5,7 +5,7 @@ This repository is hosting the documentation for the WP6 related work.
 
 The loose collection of files, written in [Markdown](https://en.wikipedia.org/wiki/Markdown), is compiled to a website using [gitbook](http://www.gitbook.io/) hosted via [GitHub Pages](https://help.github.com/articles/what-are-github-pages) under a [Creative Commons licence](http://creativecommons.org/licenses/by-sa/4.0/).
 
-[https://cascade_wp6.github.io]()
+[https://cascade-wp6.github.io/wp6_docs/](https://cascade-wp6.github.io/wp6_docs/)
 
 
 ### Contribute
