@@ -5,16 +5,15 @@ High quality research does not only mean to publish meaningful results. It is mu
 An accessible documentation of the project that shows how the project was developed, the simulations were performed and analysed and how the paper was written, is very convincing.
 
 Apart from credibility, there are other reasons to keep a documentation of ongoing research projects.
-- **backing up**: If you took a wrong turn in the project development, a documentation will help you to start afresh from the point were you lost
-- **taking a break**: after months of interruption, a documentation helps taking up the thread
-- **handing over**: if funding or a contract ends, a documentation will help the successor to go on with the work
+- **backing up**: If you have lost data due to technical issues and have to repeat things or if you took a wrong turn in the project development, a documentation will help you to start afresh from the point were you got lost.
+- **taking a break**: after months of interruption, a documentation helps taking up the thread.
+- **handing over**: if new people get onto the project or if the project is handed over to someone else, a documentation will help to get started with the work.
 
 
-## Minimal requirements
-What we consider obligatory for projects within CASCADE WP6:
+## Best practice
+What we consider a minimal requirement for projects within CASCADE WP6:
 - use version control (recommended: *git*) for code development
 
-## Optional practice
 Additionally, a project consists of many things which are not documented by version control. This includes reading papers, writing, software tools you use, offline drawings and notes on paper or in paper notebooks, meetings, conferences and important decisions.
 
 We highly recommend to implement the following in your research workflow:
