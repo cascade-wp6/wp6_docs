@@ -6,6 +6,7 @@
    * [Objectives of WP6](introduction/objectives.md)
    * [Approaches](introduction/approach.md)
    * [Team](introduction/people.md)
+* [Events](events/README.md)
 * [Projects](projects/overview.md)
    * [Spatial grazing pressure](projects/grazing.md)
    * [Livestock](projects/livestock.md)
