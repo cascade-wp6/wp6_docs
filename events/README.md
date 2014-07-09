@@ -32,9 +32,10 @@ Define functional groups of plants for each site?
 For people who would want/need to arrive a day later and/or stay a bit longer, I recommend the following hotels in the center of Montpellier:
 
 - [Best western Le Guilhem](http://www.leguilhem.com/)
-- Hotel du palais
-- Hotel du parc
-- 
+- [Hotel du palais](http://www.hoteldupalais-montpellier.fr/)
+- [Hotel du parc](http://www.hotelduparc-montpellier.com/)
+
+
 If you do intent to stay more than the workshop and haven't booked your hotel yet, don't forget that it is high holiday season over here and hotels get booked up quite quickly.
 If you have any suggestion regarding the workshop or any question, please don't hesitate to contact me.
 
@@ -44,8 +45,4 @@ All the best
  
  Sonia
  
-### Topics
-
-
-### Venue
 
