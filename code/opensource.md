@@ -19,15 +19,3 @@ Different schemes of licensing do exist to protect the rights of the author. For
 
 Text, such as manuscripts or documentation (such as this website) can also be licensed, preferably under a [Creative Commons License](https://creativecommons.org/choose/).
 
-
-## GitHub facilitates Open Source research
-
-GitHubs has a very [supportive research policy](https://github.com/blog/1840-improving-github-for-science) and provides non-commercial research and educational projects with [free-of-charge private repositories](https://education.github.com/discount_requests/new). As an individual researcher you can apply as well for your own projects.
-
-Thus all the useful features of GitHub are available to our ongoing projects within the WP6 team. And we can liberally choose between private or public development.
-
-- **publish code**: hosting your code for the public, get a DOI for your code
-- **collaboratively work on code**: review and develop
-- **manage code development**: use issue tracking and set milestones
-- **choose a license**: select from many possible licensing schemes for code or text
-- **documentation**: keep a wiki alongside with your research project, see the version history of the project

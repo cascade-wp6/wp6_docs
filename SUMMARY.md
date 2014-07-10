@@ -22,4 +22,5 @@
    * [Documentation](code/documentation.md)
    * [Version control](code/versioncontrol.md)
    * [Open Source](code/opensource.md)
+   * [GitHub](code/github.md)
 

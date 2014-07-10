@@ -62,18 +62,3 @@ If a linear workflow is not sufficient and you want to apply more elaborate proc
 
 Useful are *tags* that can be set at any point in the project development that seems noteworthy (for instance the start of a simulation, sending the code to a collaborator, the submission of a manuscript) using `git tag`.
 
-## GitHub
-
-In the first place, GitHub is a webserver for Open Source projects. It stores, visualises and helps to manage projects that develop some kind of computer code. Of course everything on GitHub is under *git* version control.
-
-To participate actively in the code development in WP6 [you will need a GitHub account](https://github.com/), which is completely free (no adds, no personal data trade).
-
-Then, you should join the CASCADE WP6 team at [github.com/cascade-wp6](https://github.com/cascade-wp6) which gives you access to the private repositories. Now, you also can
-
-- create your own (private or public) repositories and push your own projects to GitHub.
-- invite other partners within CASCADE or attached to CASCADE to participate in your project.
-- comment on other projects going on within CASCADE and get the code.
-
-GitHub provides a couple of features for [project management](opensource.md)(Milestones and issue tracking) and [documentation](documentation.md) (Wikis and Version history).
-
-[Learn more about it.](https://help.github.com/)
