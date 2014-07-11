@@ -47,5 +47,3 @@ Of course, documentation is costly in terms of working time and it is competing 
 
 As a rule of thumb, 10--15 minutes each day should be invested in documentation. The better it is included in the daily workflow and computer set-up, the less time it takes.
 
-## Reproducible research
-
