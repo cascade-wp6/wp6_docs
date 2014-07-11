@@ -15,7 +15,6 @@ That is why we chose an intermediate way:
 
 One common prejudice of Open Source is that the code, once published, is not controllable anymore and everyone can use and re-publish it for an own benefit. That is not true if the published work is put under a legal licence.
 
-Different schemes of licensing do exist to protect the rights of the author. For computer code the most common License is the [GNU public license](https://www.gnu.org/licenses/quick-guide-gplv3.en.html) which allows others to adapt your work for own projects as long as they publish it under the same terms. For every project, you should announce the terms of use by refering to the [license of choice](http://choosealicense.com/).
+Different schemes of licensing do exist to protect the rights of the author. For computer code the most common License is the [GNU public license](https://www.gnu.org/licenses/quick-guide-gplv3.en.html) which allows others to adapt your work for own projects as long as they publish it under the same terms. Often, Universities prefer a more liberal licensing that allows the re-use for commercial and non-open-source projects (e.g. MIT License). Anyway, if code is made public, the terms of use must be announced by refering to the [license of choice](http://choosealicense.com/).
 
-Text, such as manuscripts or documentation (such as this website) can also be licensed, preferably under a [Creative Commons License](https://creativecommons.org/choose/).
-
+Text, such as manuscripts or documentation (such as this website) can also be licensed, preferably under a [Creative Commons International License](https://creativecommons.org/choose/). This License covers any creative work such as Videos or Powerpoint slides, but also database content.
