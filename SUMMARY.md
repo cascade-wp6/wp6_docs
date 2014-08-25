@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [About](introduction/intro.md)
    * [the CASCADE project](introduction/cascade.md)
    * [Catastrophic regime shifts](introduction/shifts.md)
@@ -7,6 +8,7 @@
    * [Approaches](introduction/approach.md)
    * [Team](introduction/people.md)
 * [Events](events/README.md)
+   * [WP6 Montpellier 08-2014](events/wp6_montpellier_08-2014.md)
 * [Projects](projects/overview.md)
    * [Spatial grazing pressure](projects/grazing.md)
    * [Livestock](projects/livestock.md)

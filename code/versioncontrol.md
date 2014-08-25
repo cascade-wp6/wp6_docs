@@ -4,14 +4,14 @@
 We intend to implement the consequent utilisation of version control tools such as [git](https://git-scm.com/) or *subversion*. These little pieces of software keep a register of the files you are working on and track all changes. At the cost of very little extra effort in your everyday workflow, this brings the following benefits:
 
 - 	**clean working directory**: well, you might already do your manual versioning by keeping a collection of files in your working directory that reads something like this:
-
-      simulation.cpp
+```
+simulation.cpp
       simulation_v0.1.cpp
       simulation_v0.2.cpp
       simulation_v0.2.1.cpp
       simulation_in_review.cpp
       simulation_messed_up.cpp
-
+```
 	You also might have several copies of the code file in differently named directories. You might have made some little changes to the file in each of them. This clutters your project's working directory. Version control makes this redundand since the software keeps track of your work now. It allows you to make changes to your main code file and return to a previous version anytime you want. You even can keep several branches of that single code file. Still, there is only one file found in your working directory called `simulation.cpp`.
 - 	**code safety and progressive development:** Certainly it happened to you that you helplessly messed up a previously running version of your piece of code. An accidentally overwritten file could even compromise the supposedly secured copies on your cloud storage or backup drive. With version control, if some development did not work out, you will always be able to go back to the last running version and start afresh. While doing so, you even could choose to keep those parts of your unsuccessful exploation that were actually not so bad. This saves a lot of frustration and makes the code development more progressive, conserving the good parts of your development while beeing able to undo the bad ideas.
 - 	**project progress documentation:** Since version control does not only track the main code file, but also your result files, generated figures and manuscript files, if you let it do so, the timeline of changes is a perfect documentation of the projects progress. Additional information can be added by setting tags to certain versions of the project or by complementing the code with a documentation file, itself versioned as part of the project.

@@ -20,7 +20,7 @@ GitHubs has a very [supportive research policy](https://github.com/blog/1840-imp
 
 Thus all the useful features of GitHub are available to our ongoing projects within the WP6 team. And we can liberally choose between private or public development.
 
-## Overview:
+## Overview of GitHub features:
 
 - **publish code**: hosting your code for the public, get a DOI for your code
 - **collaboratively work on code**: review and develop
