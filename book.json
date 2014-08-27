@@ -1,0 +1,15 @@
+{    
+
+  "github": null,
+  "githubHost": "https://github.com/",
+
+  "links": {
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false,
+            "weibo": false,
+            "all": false
+        }
+  }
+}
